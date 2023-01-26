@@ -1,7 +1,7 @@
 # web_seminar_JSON_XML
 Задача: JSON и XML
 Задача 1: проверить XML на Well formed:
-<req>
+
     <surname>Иванов</surname>
 
     <name>Иван</name>
